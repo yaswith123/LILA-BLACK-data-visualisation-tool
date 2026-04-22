@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.streamlit/
+.DS_Store
+verify_reconstruction.py
+audit_distribution.py
+generate_chat_table.py
+scratch/
+.gemini/
